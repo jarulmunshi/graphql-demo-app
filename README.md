@@ -1,4 +1,4 @@
-# GraphQL Demo App (Monorepo)
+# GraphQL Demo App
 
 This is a full-stack **GraphQL demo application** with:
 
@@ -31,7 +31,7 @@ Each subfolder (`client/`, `server/`) has its own README with setup instructions
 
 ### 1. Clone Repo
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/jarulmunshi/graphql-demo-app.git
 cd graphql-demo
 ````
 
